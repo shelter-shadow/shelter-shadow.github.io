@@ -523,7 +523,7 @@ a {
     min-height: 400px;
     flex-direction: column;
     align-items: stretch;
-    border-radius: 2px;
+    border-radius: 10px;
 }
 @media screen and (max-width: 480px) {
     #scheme-Paradox .material-post .mdl-card {
