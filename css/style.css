@@ -452,7 +452,7 @@ a {
         transition: 1s;
         width: 100%;
         margin: 0;
-        border-radius: 0 !important;
+        border-radius: 10px !important;
     }
     #scheme-Paradox .material-layout .daily-pic {
         height: 100%
@@ -523,11 +523,11 @@ a {
     min-height: 400px;
     flex-direction: column;
     align-items: stretch;
-    border-radius: 10px;
+    border-radius: 10px !important;
 }
 @media screen and (max-width: 480px) {
     #scheme-Paradox .material-post .mdl-card {
-        border-radius: 0;
+        border-radius: 10px;
     }
 }
 #scheme-Paradox .material-layout .mdl-card__title {
